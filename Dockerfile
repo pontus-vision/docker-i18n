@@ -1,3 +1,3 @@
 FROM alpine
-COPY i18n.js  /
+COPY i18n.js  *.json /
 
