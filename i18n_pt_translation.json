@@ -672,4 +672,8 @@
 , "Object Data Policy Type":"Tipo de Política"
 , "Object Data Policy Retention Period":"Período de Retenção"
 , "Object Lawful Basis Short Description": "Tipo"
+, "Filter": "Filtro"
+, "Custom Filter": "Filtro Customisado"
+, "Person Natural Type": "Tipo"
+, "Location Address Type": "Tipo"
 }
