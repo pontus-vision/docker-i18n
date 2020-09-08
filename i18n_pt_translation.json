@@ -687,4 +687,10 @@
 , "Object Salary Value": "Valor"
 , "Object Salary Period": "Período"
 , "Object Salary Currency": "Moeda"
+, "Has_Transaction": "Tem Transação"
+, "Has Transaction": "Tem Transação"
+, "Has Salary": "Tem Salário"
+, "Has_Salary": "Tem Salário"
+, "Is_Responsible": "É Responsável"
+, "Is Responsible": "É Responsável"
 }
