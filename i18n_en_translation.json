@@ -650,4 +650,10 @@
 , "Custom Filter": "Custom Filter"
 , "Person Natural Type": "Type"
 , "Location Address Type": "Type"
+, "Event Transaction": "Event Transaction"
+, "Event Transaction Description": "Description"
+, "Event Transaction Currency": "Currency"
+, "Event Transaction Type": "Type"
+, "Event Transaction Date": "Date"
+, "Event Transaction Status": "Status"
 }
