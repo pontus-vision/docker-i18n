@@ -1,3 +1,12 @@
+FROM alpine as builder
+
+RUN apk --no-cache update && \
+    apk add jq bash
+
+COPY . /build/
+RUN /build/pre-build-docker.sh
+
+
 FROM scratch
-COPY i18n.js  *.json /
+COPY --from=builder /build/i18n.js  /build/*.json /
 
