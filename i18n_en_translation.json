@@ -562,7 +562,7 @@
   "Church Membership": "Church Membership",
   "Sensitive Data": "Sensitive Data",
   "Metadata Type Event Subject Access Request": "Data Type",
-  "Name": "Propriedade",
+  "Name": "Name",
   "Match Weight": "Match Weight",
   "Exclude From Search": "Exclude From Search",
   "Reports To": "Reports To",
@@ -635,7 +635,7 @@
 , "Display":"Display"
 , "Self Namespace":"Self Namespace"
 , "Base URL":"Base URL"
-, "Is Neighbour":"Base URL"
+, "Is Neighbour":"Is Neighbour"
 , "Object Application":"Application"
 , "Object Data Source Engine":"Data Source Engine"
 , "Object Data Source Business Rules":"Business Rules"
