@@ -39,7 +39,7 @@ jobs:
         with:
           context: .
           tags: pontusvisiongdpr/pontus-i18n:latest
-          file: ./docker-lib/Dockerfile
+          file: ./Dockerfile
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,mode=max,dest=/tmp/.buildx-cache-new
           push: true
